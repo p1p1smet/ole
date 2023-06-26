@@ -18,13 +18,13 @@
   --danger-color: #FD0000;
   --url-color: #00FFE7;
   --background-image: url('https://cdn.discordapp.com/attachments/1094269809975361606/1099281073541754950/heisenberglookalike-20221003-0001.jpg');
-  --background-shading: 100%;
+  --background-shading: 70%;
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
   --background-attachment: fixed;
-  --background-brightness: 100%;
-  --background-contrast: 100%;
+  --background-brightness: 110%;
+  --background-contrast: 110%;
   --background-saturation: 100%;
   --background-grayscale: 0%;
   --background-invert: 0%;
